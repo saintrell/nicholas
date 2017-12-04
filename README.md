@@ -1,0 +1,2 @@
+# nicholas
+ethical programming
